@@ -6,7 +6,8 @@ This software is used only for learning don't use it for any actions against the
 
 # How to use sudophishing
 
-Change the define path in the source code with the path where you want to save the stolen password
+Change the define **PASSWORD_PATH** in the source code with the path where you want to save the stolen password
+
 
 Compile the source code:
 
